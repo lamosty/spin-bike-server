@@ -1,0 +1,25 @@
+{
+  "name": "spin-bike-server",
+  "version": "0.1.0",
+  "description": "",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lamosty/spin-bike-server.git"
+  },
+  "keywords": [
+  ],
+  "author": "Rastislav Lamos <lamos.rasto@gmail.com> (https://lamosty.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lamosty/spin-bike-server/issues"
+  },
+  "homepage": "https://github.com/lamosty/spin-bike-server#readme",
+  "devDependencies": {
+ 
+  },
+  "dependencies": {
+
+  }
+}
